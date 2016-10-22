@@ -4,7 +4,7 @@
 }
 
 .logo {
-  padding-top: 109px;
+  padding-top: 140px;
 }
 
 .searchBar {
@@ -28,4 +28,30 @@
   min-width: 54px;
   padding: 0 16px;
   text-align: center;
+}
+
+.navbar ul {
+  list-style-type: none;
+  margin-top: 10px;
+  padding: 0;
+  overflow: hidden;
+}
+
+.navbar li {
+  height: 30px;
+  float: right;
+  font-family: arial,sans-serif;
+  font-size: 12px;
+}
+
+li a {
+  display: block;
+  color: #757575;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  text-decoration: underline;;
 }
