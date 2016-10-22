@@ -1,0 +1,31 @@
+.center {
+  display: block;
+  text-align: center;
+}
+
+.logo {
+  padding-top: 109px;
+}
+
+.searchBar {
+  width: 545px;
+  height: 38px;
+  margin: 40px 0 40px;
+  padding: 0 9px 0;
+  font-size: 16px;
+}
+
+.searchButtons {
+  background-color: #f2f2f2;
+  border: 1px solid #f2f2f2;
+  height: 36px;
+  line-height: 27px;
+  color: #757575;
+  font-family: arial,sans-serif;
+  font-size: 13px;
+  font-weight: bold;
+  margin: 11px 4px;
+  min-width: 54px;
+  padding: 0 16px;
+  text-align: center;
+}
